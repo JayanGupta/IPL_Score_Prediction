@@ -30,3 +30,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update ball-by-ball feature engineering notes
 - **Technical Summary**: Engineered rolling runs in last 5 overs, wickets in hand, and venue factors.
 
+### Milestone Log - 2025-10-07 (10:20)
+- **Focus**: refactor: optimize Random Forest regressor hyperparameters
+- **Technical Summary**: Configured n_estimators=200, max_depth=12, min_samples_split=5.
+
