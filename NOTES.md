@@ -38,3 +38,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add model error analysis and MAE comparison
 - **Technical Summary**: Documented average MAE of 12.4 runs on second-innings projections.
 
+### Milestone Log - 2025-10-08 (10:40)
+- **Focus**: docs: update ball-by-ball feature engineering notes
+- **Technical Summary**: Engineered rolling runs in last 5 overs, wickets in hand, and venue factors.
+
