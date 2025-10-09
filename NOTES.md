@@ -46,3 +46,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize Random Forest regressor hyperparameters
 - **Technical Summary**: Configured n_estimators=200, max_depth=12, min_samples_split=5.
 
+### Milestone Log - 2025-10-09 (10:18)
+- **Focus**: docs: add model error analysis and MAE comparison
+- **Technical Summary**: Documented average MAE of 12.4 runs on second-innings projections.
+
